@@ -1,4 +1,4 @@
- Sub Main()
+Sub ReadFiles()
         'Outputfile
         Dim outputfile As String = "C:\Visual Studio\Projects\TOVE_LesTrendFiles\TOVE_LesTrendFiles\output2017.txt"
 
