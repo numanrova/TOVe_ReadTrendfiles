@@ -1,0 +1,1 @@
+* average goal scorer
